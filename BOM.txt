@@ -7,7 +7,7 @@
 </head>
 <body>
 	<div>
-		background-color: red;
+		background-color: blue;
 		margin: 0px;
 	</div>
 </body>
